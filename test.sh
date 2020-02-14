@@ -11,3 +11,5 @@ echo "Logged in user are $USERS"
 
 UP=`date ; uptime`
 echo "Uptime is $UP"
+
+ls
